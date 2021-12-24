@@ -1,7 +1,7 @@
 {
   "name": "⚡Skyzu-Userbot⚡",
-  "description": "🚫Skyzu-Userbot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/fd08937c4ae6cb1303731.jpg",
+  "description": "🚫Abiant-Ubot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/5419225dbc99ca5ee8482.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @skyzuuuu di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke BOSS ABIANT di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
